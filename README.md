@@ -125,9 +125,7 @@ Badges:
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
 - ![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram)
 
-Notes:
 
-- No public email listed. If you'd like to collaborate, please reach out via LinkedIn or open an issue on a relevant repository.
 
 
 
